@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hansakaw
-- 👀 I’m interested in Java and Cloud Computing
-- 🌱 I’m currently learning SAP BTP, SAP iRPA
+- 👀 I’m interested in Java, Cloud Computing and AI/ML
+- 🌱 I’m currently on Docker, Kubernetes, Helm on Microsoft Azure
 - 💞️ I’m looking to collaborate on anything technical
 - 📫 How to reach me follow me here on GitHub or http://hansakaonline.blogspot.com/
 
